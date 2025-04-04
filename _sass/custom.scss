@@ -1,0 +1,12 @@
+/* ページ中央寄せ、最大幅と余白の設定 */
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+}
+
+/* 見出しの余白調整 */
+h1, h2, h3 {
+  margin-top: 2em;
+}
